@@ -30,6 +30,7 @@ Ensure you have the following Python libraries installed to run the notebooks:
 
    ```bash
    pip install pandas matplotlib seaborn numpy scikit-learn
+   ```
 
 
 ## Execution
