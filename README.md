@@ -8,7 +8,7 @@ The electricity market is a fundamental component of a country's energy infrastr
 
 ## Project Structure
 
-The project is organized into one Jupyter notebooks. Below is a brief description of its contents:
+The project is organized into one Jupyter notebook. Below is a brief description of its contents:
 
 1. **Correlation between Spot Markets**: This part analyzes the correlation between the electricity spot markets in Spain, France, and Portugal.
 
